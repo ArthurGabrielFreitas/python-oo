@@ -4,4 +4,4 @@ Códigos dos cursos da alura:
 
 * Python 3: Introdução a Orientação a objetos footnote:[Parte 1: https://cursos.alura.com.br/course/python-3-intro-orientacao-objetos]
 * Python 3: Avançando na orientação a objetos footnote:[Parte 2: https://cursos.alura.com.br/course/python-3-avancando-orientacao-objetos]
-* Python 3: String em Python: Extraindo informações de uma URL:[Parte 3: https://cursos.alura.com.br/course/string-python-extraindo-informacoes-url]
+* Python 3: String em Python: Extraindo informações de uma URL footnote:[Parte 3: https://cursos.alura.com.br/course/string-python-extraindo-informacoes-url]
