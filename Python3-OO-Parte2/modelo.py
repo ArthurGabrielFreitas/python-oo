@@ -29,7 +29,7 @@ class Filme(Programa):
         self.duracao = duracao
 
     def __str__(self):
-        return f'{self.nome_classe()} {self.nome}: - {self.ano} - Duração: {self.duracao} - Like(s): {self.likes}'
+        return f'{self.nome_classe()}: {self.nome} - {self.ano} - Duração: {self.duracao} - Like(s): {self.likes}'
 
     @staticmethod
     def nome_classe():
