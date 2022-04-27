@@ -1,6 +1,6 @@
 # python-oo
 
-Códigos dos cursos da alura:
+Códigos dos cursos da alura na Formaço Python para Web footnote:[Formação Python para Web: https://cursos.alura.com.br/formacao-Python-linguagem]:
 
 * Python 3: Introdução a Orientação a objetos footnote:[Python 3 Parte 1: https://cursos.alura.com.br/course/python-3-intro-orientacao-objetos]
 * Python 3: Avançando na orientação a objetos footnote:[Python 3 Parte 2: https://cursos.alura.com.br/course/python-3-avancando-orientacao-objetos]
